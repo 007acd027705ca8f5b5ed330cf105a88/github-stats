@@ -132,7 +132,7 @@ div.ellipsis {
 
 <div>
 <span class="progress">
-<span style="background-color: #f1e05a;width: 42.028%;" class="progress-item"></span><span style="background-color: #563d7c;width: 29.129%;" class="progress-item"></span><span style="background-color: #e34c26;width: 28.314%;" class="progress-item"></span><span style="background-color: #DA5B0B;width: 0.229%;" class="progress-item"></span><span style="background-color: #3572A5;width: 0.162%;" class="progress-item"></span><span style="background-color: #b07219;width: 0.124%;" class="progress-item"></span><span style="background-color: #4F5D95;width: 0.013%;" class="progress-item"></span><span style="background-color: #f34b7d;width: 0.001%;" class="progress-item"></span><span style="background-color: #384d54;width: 0.000%;" class="progress-item"></span><span style="background-color: #878787;width: 0.000%;" class="progress-item"></span>
+<span style="background-color: #f1e05a;width: 42.026%;" class="progress-item"></span><span style="background-color: #563d7c;width: 29.127%;" class="progress-item"></span><span style="background-color: #e34c26;width: 28.313%;" class="progress-item"></span><span style="background-color: #DA5B0B;width: 0.229%;" class="progress-item"></span><span style="background-color: #3572A5;width: 0.162%;" class="progress-item"></span><span style="background-color: #b07219;width: 0.124%;" class="progress-item"></span><span style="background-color: #4F5D95;width: 0.013%;" class="progress-item"></span><span style="background-color: #f34b7d;width: 0.005%;" class="progress-item"></span><span style="background-color: #384d54;width: 0.000%;" class="progress-item"></span><span style="background-color: #878787;width: 0.000%;" class="progress-item"></span>
 </span>
 </div>
 
@@ -207,7 +207,7 @@ fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 <span class="lang">C++</span>
-<span class="percent">0.00%</span>
+<span class="percent">0.01%</span>
 </li>
 
 
